@@ -1,4 +1,4 @@
-# FETCHER 
+# FETCHER 🐕⚽
 > An exercise made during a lab of the class "Desarrollo de Aplicaciones de Vanguardia".
 
 <h4>Install package</h4>
